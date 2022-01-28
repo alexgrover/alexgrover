@@ -2,9 +2,13 @@
 
 📈 5 years of developing trading tools using pinescript 🌲 and python 🐍.
 
-🏢 [LuxAlgo](https://www.luxalgo.com) Lead Developer.
+💼 [LuxAlgo](https://www.luxalgo.com) Lead Developer.
 
-[Tradingview Profile](https://www.tradingview.com/u/alexgrover/)
+🔬 +3 Research projects published.
+
+📏 +130 Indicators posted
+
+☁️ [Tradingview Profile](https://www.tradingview.com/u/alexgrover/)
 
 ## Cute Stats
 
