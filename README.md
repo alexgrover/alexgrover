@@ -6,7 +6,7 @@
 
 🔬 +3 Research projects published.
 
-📏 +130 Indicators posted
+📏 +130 Indicators posted.
 
 ☁️ [Tradingview Profile](https://www.tradingview.com/u/alexgrover/)
 
