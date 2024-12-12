@@ -6,6 +6,6 @@
 
 🔬 +3 Research projects published.
 
-📏 +200 Indicators posted.
+📏 [+200 Indicators](https://www.tradingview.com/u/LuxAlgo/#published-scripts) posted.
 
 ☁️ [Tradingview Profile](https://www.tradingview.com/u/alexgrover/)
