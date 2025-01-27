@@ -1,8 +1,8 @@
 # Heylo
 
-📈 5 years of experience developing trading tools using PineScript 🌲 and Python 🐍.
+📈 +7 years of experience developing trading tools using PineScript 🌲 and Python 🐍.
 
-💼 [LuxAlgo](https://www.luxalgo.com) Lead Developer.
+💼 [LuxAlgo](https://www.luxalgo.com) CPO.
 
 🔬 +3 Research projects published.
 
